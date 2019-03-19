@@ -1,1 +1,1 @@
-const user = new UserController("form-user-create", "user-table")
+const user = new UserController("form-user-create", "form-user-update", "user-table")
